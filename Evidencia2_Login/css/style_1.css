@@ -1,0 +1,30 @@
+.form-sign{
+    margin: 0 auto;
+    max-width: 400px;
+    background-color: white;
+    padding: 15px;
+}
+
+.form-sign h2{
+    text-align: center;
+}
+
+
+.button{
+    height: 45px;
+    margin: 45px 0;
+}
+
+
+.button input{
+    height: 100%;
+    width: 30%;
+    outline: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background: #FF9800;
+}
+
